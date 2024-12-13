@@ -1,4 +1,4 @@
-# Cybersecurity-Home-Lab-Part-4-pfSense-Firewall-Configuration
+# Cybersecurity Home Lab Part 4: pfSense Firewall Configuration
 
 ## Objectives
 In this module, the objective was to install and configure the pfSense firewall in VirtualBox. The pfSense firewall will establish a secure, segmented network topology for the home lab, allowing for effective management and monitoring of network traffic, as well as interaction with other systems like Kali Linux and vulnerable machines in later modules.
